@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movix-Netflix-Clone/static/css/main.2bc99f97.css",
+    "main.js": "/Movix-Netflix-Clone/static/js/main.ad578fc7.js",
+    "index.html": "/Movix-Netflix-Clone/index.html",
+    "main.2bc99f97.css.map": "/Movix-Netflix-Clone/static/css/main.2bc99f97.css.map",
+    "main.ad578fc7.js.map": "/Movix-Netflix-Clone/static/js/main.ad578fc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc99f97.css",
+    "static/js/main.ad578fc7.js"
+  ]
+}
