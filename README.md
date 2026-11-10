@@ -108,3 +108,11 @@ This product uses the TMDB API but is not endorsed or certified by TMDB.
 ---
 
 Feedback and suggestions are welcome through GitHub Issues.
+
+## Screenshots
+
+### Movix Application
+
+![Movix Preview 1](screenshots/movix-screenshot-1.png)
+
+![Movix Preview 2](screenshots/movix-screenshot-2.png)
